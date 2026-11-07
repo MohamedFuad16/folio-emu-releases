@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "versionCode": 5,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/MohamedFuad16/folio-emu-releases/releases/download/v0.3.0/FolioEMU-0.3.0.apk",
+  "sha256": "6a88ab84ed9e5280fab23eeba68fa71d8bc468abfc49839a9441ee881490e88e",
+  "sizeBytes": 15408224,
+  "notes": "Folio EMU can now update itself.",
+  "minVersionCode": 4,
+  "relay": "wss://patients-threatened-munich-alter.trycloudflare.com"
+}
